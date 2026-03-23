@@ -1,0 +1,47 @@
+## .NET / C#
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## NuGet
+**/packages/*
+*.nupkg
+**/[Pp]ackages/
+project.lock.json
+project.fragment.lock.json
+
+## Visual Studio
+.vs/
+*.rsuser
+*.sln.iml
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TestResult.xml
+*.trx
+
+## Allure Reports
+allure-results/
+allure-report/
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Misc
+*.log
+*.tmp
+*.bak
+*.swp

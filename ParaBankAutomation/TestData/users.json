@@ -1,0 +1,23 @@
+{
+  "validUser": {
+    "username": "auto_test_user",
+    "password": "Auto@12345"
+  },
+  "invalidUser": {
+    "username": "wrong_user_xxx",
+    "password": "wrong_pass_xxx"
+  },
+  "registerUser": {
+    "firstName": "Selenium",
+    "lastName": "Tester",
+    "address": "123 Automation Street",
+    "city": "Test City",
+    "state": "TC",
+    "zipCode": "12345",
+    "phone": "0901234567",
+    "ssn": "123-45-6789",
+    "username": "sel_user_{timestamp}",
+    "password": "Auto@12345",
+    "confirmPassword": "Auto@12345"
+  }
+}
