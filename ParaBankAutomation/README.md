@@ -1,4 +1,4 @@
-# ParaBank Automation Testing
+# ParaBank Automation Testing (AI GEN)
 
 Dự án kiểm thử tự động website ParaBank sử dụng Selenium WebDriver, NUnit, và C# (.NET 10.0).
 
